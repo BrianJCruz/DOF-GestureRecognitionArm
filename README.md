@@ -54,7 +54,7 @@ void moveWristR(int angle, int movSpeed = 35);    // Wrist rotation
 Instead of jumping directly to a target angle, servos move 1° at a time with a configurable delay (movSpeed).
 This prevents sudden jerks and reduces mechanical stress.
 
-### Core AI Components
+### Core Python Components
 ```python
 import mediapipe as mp  # Hand landmark detection
 import cv2              # Real-time video processing
