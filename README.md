@@ -61,14 +61,14 @@ import cv2              # Real-time video processing
 from google.protobuf.json_format import MessageToDict  # Handedness parsing
 ```
 
-Lynxmotion Robot Arm and its SSC-32U servo controller board
+Lynxmotion Robot Arm with its SSC-32U servo controller board and the hand mapping preview for gesture control:
 
 <p align="center" width=100%>
     <img src="https://github.com/user-attachments/assets/180dda2e-1c9c-4ef9-8f40-bf52a44a2ebc" width="33%">
     <img src="https://github.com/user-attachments/assets/3416d8c4-640a-4ab7-98d5-fdbf2ceef128" width="33%">
 </p>
 
-Hand mapping for gesture control
+
 
 
 
