@@ -1,4 +1,4 @@
-# DOF-GestureRecognition
+# DOF-GestureRecognition Robot Arm
 This project integrates computer vision-based hand tracking with Arduino-controlled servo actuation to create an intuitive gesture-controlled robotic arm. Below is a detailed breakdown of its components, functionality, and technical implementation.
 
 # Overview
@@ -60,3 +60,9 @@ import mediapipe as mp  # Hand landmark detection
 import cv2              # Real-time video processing
 from google.protobuf.json_format import MessageToDict  # Handedness parsing
 ```
+
+<img src="https://github.com/user-attachments/assets/180dda2e-1c9c-4ef9-8f40-bf52a44a2ebc" width=400>
+<img src="https://github.com/user-attachments/assets/3416d8c4-640a-4ab7-98d5-fdbf2ceef128" width=450 height=450>
+
+
+
